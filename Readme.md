@@ -13,7 +13,7 @@ This project implements an anomaly detection system using a voting ensemble appr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shalin06/anomaly-detection.git
-   cd anomaly-detection
+   git clone https://github.com/Shalin06/AnomalyDetection.git
+   cd AnomalyDetection
    pip install -r requirements.txt
    ```
