@@ -1,4 +1,6 @@
-# Efficient Data Stream Anomaly DetectionDescription
+# Efficient Data Stream Anomaly Detection
+
+## Description
 
 This project implements an anomaly detection system using a voting ensemble approach. It combines multiple anomaly detection algorithms, such as Exponential Moving Average (EMA), Seasonal Hybrid Extreme Studentized Deviate (SHESD), Quantile-Based Detection, and Random Cut Trees (RCTrees), to effectively identify anomalies in a data stream.
 
